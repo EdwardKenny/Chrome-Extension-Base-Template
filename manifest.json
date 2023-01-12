@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Your Chrome Extension Name",
+  "name": "Recipe Lookup",
   "version": "0.1",
   "author": "First Last",
-  "description": "A description about your Chrome Extension...",
+  "description": "Query recipes based on what limited groceries you have at home",
   "permissions": [
     ""
   ],
